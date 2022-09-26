@@ -1,6 +1,5 @@
 /*
-Author: Mrcus Cureton and Corey Shafer
-Assignment Number:1
+Authors: Marcus Cureton and Corey Shafer
 Date of Submission:07/30/2022
 Name of this file:mypstree.c
 Short description of contents:
