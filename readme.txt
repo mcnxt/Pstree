@@ -1,10 +1,6 @@
-Corey Shafer
 Marcus Cureton
+Corey Shafer
 07/30/2022
-Dr. Kanchi
-CS-451 Operating Systems
-Assignment1
-
 
 
 How to compile and run this program:
